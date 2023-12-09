@@ -1,0 +1,20 @@
+/*!*********************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/css/style.css ***!
+  \*********************************************************************/
+body {
+  background-color: indigo;
+}
+
+.container {
+  background-color: aliceblue;
+  padding: 2rem;
+  margin: 2rem auto;
+  border-radius: 0.8rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+} 
+
+.captcha-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
